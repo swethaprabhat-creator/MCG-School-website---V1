@@ -1,0 +1,6 @@
+{
+  "name": "Mount Carmel School • Heritage & Excellence",
+  "description": "Mount Carmel School institutional web application featuring CBSE & Cambridge dual-framework curricula, four-tier academic continuum, admissions roadmap, campus facilities, and live Carmel AI Academic Counselor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
